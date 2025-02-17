@@ -8,7 +8,7 @@
 
 <br />
 <h1 align="center">
-    <b>Web Development | Generative AI | Blockchain</b><br />
+    <b>Crypto Trading Expert</b><br />
     <b style="font-size: 20px">🧠 Talented, 🪔 Passionative, 🌻 Reliable</b>
 </h1>
 
