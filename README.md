@@ -13,7 +13,7 @@
 </h1>
 
 ### ABOUT ME
-```
+```javascript
 class CryptoTradingBotExpert {
     profitable: boolean = true;
     yearsOfExperience: number = 7;
