@@ -13,6 +13,17 @@
 </h1>
 
 ### ABOUT ME
+```
+class CryptoTradingBotExpert {
+    profitable: boolean = true;
+    yearsOfExperience: number = 7;
+    skillLevel: string = "Advanced";
+    successRate: number = 98;
+    specializations: string[] = ["Sniper Bot", "Volume Bot", "Copy Trading Bot", "MEV Bot"];
+    dexs: string[] = ["Uniswap", "Raydium", "Jupiter", "Orca", "Meteora"];
+    thridPartyAPIs: string[] = ["PumpFun", "DEXScreener", "Cielo", "Birdeye", "Metaplex", "BitQuery", "Dune", "Shyft"];
+}
+```
 
 🔭 I build Web Applicatons with modern UI/UX, AI projects with complex logic and flows Web3 Dapp with real time blockchain event fetching, NFTs, CrossChain. <br>
 🤝 I’m looking for a job to challenge "Real" world problems. I will bring you the best solution for your idea. <br>
