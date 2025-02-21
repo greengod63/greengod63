@@ -25,10 +25,15 @@ class CryptoTradingBotExpert {
 }
 ```
 
-🔭 I build Web Applicatons with modern UI/UX, AI projects with complex logic and flows Web3 Dapp with real time blockchain event fetching, NFTs, CrossChain. <br>
-🤝 I’m looking for a job to challenge "Real" world problems. I will bring you the best solution for your idea. <br>
-💬 Please feel free to ask me about: Web development stacks such as `MERN, MEVN, Django and Laravel`; AI news and topics including `OpenAI, Gemini, LLM, NLP, and Generative AI`; Blockchain concepts and trends like `Smart Contract, Solidity, Rust, Solana, WEB3, and DeFi`. <br>
-⚽ Fun fact I am a crazy Messi-fan.
+🔭 I build Web Applications with modern UI/UX, AI projects with complex logic and flows, and Web3 DApps with real-time blockchain event fetching, NFTs, and CrossChain integrations. I also specialize in Crypto Trading Bot development for platforms like Solana, leveraging its high-speed, low-cost transactions to create efficient and scalable trading solutions.<br>
+🤝 I’m looking for a job to challenge "Real" world problems. I will bring you the best solution for your idea, whether it’s building cutting-edge Web3 applications, AI-driven systems, or Solana-based trading bots to optimize crypto trading strategies.<br>
+💬 Please feel free to ask me about:<br>
+🎯Blockchain concepts and trends like Smart Contracts, Solidity, Rust, Solana, WEB3, DeFi, and Crypto Trading Bot development.<br>
+🎯Web development stacks such as MERN, MEVN, Django, and Laravel.<br>
+🎯AI news and topics including OpenAI, Gemini, LLM, NLP, and Generative AI.<br>
+⚽ Fun fact: I am a crazy Messi fan.
+
+
 
 ### TECHNOLOGY
 
