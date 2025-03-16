@@ -1,11 +1,5 @@
 # Hi there <img src="./assets/Hi.gif" width="30px"><br>
 
-<br>
-
-<div align="left" style = "display: flex; align-items: center;">
-  <h3>Toward the radiant glow of the Lucky Ray! With you... With me...</h3>
-</div>
-
 <br />
 <h1 align="center">
     <b>=== Crypto Trading Bot Expert ===</b><br />
