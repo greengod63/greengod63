@@ -1,10 +1,14 @@
 # Hi there <img src="./assets/Hi.gif" width="30px"><br>
 
 <br />
-<h1 align="center">
-    <b>=== Crypto Trading Bot Expert ===</b><br />
-    <b style="font-size: 20px">🧠 Talented, 🪔 Passionative, 🌻 Reliable</b>
+<h1 align="left">
+    <b>💰🐋 𝘾𝙧𝙮𝙥𝙩𝙤 𝙏𝙧𝙖𝙙𝙞𝙣𝙜 𝘽𝙤𝙩 𝙀𝙭𝙥𝙚𝙧𝙩 </b>
 </h1>
+<br />
+<br />
+<p align="center">
+<a href="https://github.com/greengod63?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=greengod63&theme=onestar&no-frame=true&column=3&row=2"  width="100%" height="50%" alt="@GreenGod's trophy stats"/></a>
+</p>
 
 ### ABOUT ME
 ```javascript
@@ -213,9 +217,6 @@ class CryptoTradingBotExpert {
 </p>
 <!-- activity graph heroku-app end -->
 
-<p align="center">
-<a href="https://github.com/greengod63?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=greengod63&theme=onestar&no-frame=true&column=3&row=2"  width="50%" height="50%" alt="@Goblin's trophy stats"/></a>
-</p>
 
 <p align="center">
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
