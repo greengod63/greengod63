@@ -7,7 +7,7 @@
 <br />
 <br />
 <p align="center">
-<a href="https://github.com/greengod63?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=greengod63&theme=onestar&no-frame=true&column=3&row=2"  width="100%" height="50%" alt="@GreenGod's trophy stats"/></a>
+<a href="https://github.com/greengod63?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=greengod63&theme=onestar&no-frame=true&column=3&row=2"  width="75%" height="50%" alt="@GreenGod's trophy stats"/></a>
 </p>
 
 ### ABOUT ME
