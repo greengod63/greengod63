@@ -95,8 +95,8 @@ class CryptoTradingBotExpert {
       <br>Tailwind
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=threejs" width="45" height="45" alt="Three.js" />
-      <br>Three.js
+      <img src="https://skillicons.dev/icons?i=nestjs" width="45" height="45" alt="NestJS" />
+      <br>NestJS
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=redux" width="45" height="45" alt="Redux" />
@@ -125,16 +125,16 @@ class CryptoTradingBotExpert {
   </tr>
   <tr>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nestjs" width="45" height="45" alt="nestjs" />
-      <br>NestJS
+      <img src="https://skillicons.dev/icons?i=ai" width="45" height="45" alt="ai" />
+      <br>AI
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nuxtjs" width="45" height="45" alt="nuxjs" />
-      <br>NuxtJS
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="45" height="45" alt="tensorflow" />
+      <br>TensorFlow
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=prisma" width="45" height="45" alt="prisma" />
-      <br>Prisma
+      <img src="https://skillicons.dev/icons?i=pytorch" width="45" height="45" alt="pytorch" />
+      <br>PyTorch
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=redis" width="45" height="45" alt="redis" />
