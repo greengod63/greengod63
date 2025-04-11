@@ -1,4 +1,5 @@
-# Hi there <img src="./assets/Hi.gif" width="30px"><br>
+# Hi there <img src="./assets/Hi.gif" width="30px"> <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>![](https://komarev.com/ghpvc/?username=greengod63&color=yellow)
+<br>
 
 <br />
 <h1 align="left">
