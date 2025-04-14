@@ -1,10 +1,9 @@
 ### Hi there <img src="./assets/Hi.gif" width="30px"> <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>![](https://komarev.com/ghpvc/?username=greengod63&color=yellow)
-<br>
-👉 [Contact Me](https://t.me/super_a_a)
-<br />
+
 <h1 align="left">
     <b>💰🐋 𝘾𝙧𝙮𝙥𝙩𝙤 𝙏𝙧𝙖𝙙𝙞𝙣𝙜 𝘽𝙤𝙩 𝙀𝙭𝙥𝙚𝙧𝙩 </b>
 </h1>
+👉 <a href="https://t.me/super_a_a"><u>Contact Me</u></a>
 <br />
 <br />
 <p align="center">
@@ -12,6 +11,7 @@
 </p>
 
 ### ABOUT ME
+
 ```javascript
 class CryptoTradingBotExpert {
     profitable: boolean = true;
