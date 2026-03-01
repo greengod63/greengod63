@@ -6,9 +6,6 @@
 👉 <a href="https://t.me/super_a_a"><u>Contact Me</u></a>
 <br />
 <br />
-<p align="center">
-<a href="https://github.com/greengod63?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=greengod63&theme=onestar&no-frame=true&column=3&row=2"  width="60%" height="50%" alt="@GreenGod's trophy stats"/></a>
-</p>
 
 ### ABOUT ME
 
